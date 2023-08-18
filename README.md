@@ -48,6 +48,8 @@ $mod + Shift + r
 
 To start/pause the stopwatch, simply click on it. To stop it, simply right click on it.
 
-https://github.com/4g3nt47/polybar-stopwatch/assets/54174043/45d81119-23fa-4d83-9d64-c2d85238f9ee
+https://github.com/4g3nt47/polybar-stopwatch/assets/54174043/82627720-4253-4e80-94e6-e3fcdc7a1c1f
+
+
 
 
